@@ -1,8 +1,8 @@
-/* VICTOR VALVERDE OLMEDO   EJ5.java
-Conversor de pesetas a euros
+/* VICTOR VALVERDE OLMEDO   EJ6.java
+factura a partir de la base imponible 
 */
 
-public class Ejercicio6 {
+public class Ej6 {
 
   public static void main(String args[]) {
     double sin_iva = 11.51;

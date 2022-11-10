@@ -1,5 +1,5 @@
 /* VICTOR VALVERDE OLMEDO   EJ7.java
-Prueba
+Variables de tipo char y de tipo String, sola sentencia
 */
 
 public class Ej7 {

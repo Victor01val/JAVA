@@ -1,5 +1,5 @@
 /* VICTOR VALVERDE OLMEDO   EJ8.java
-Prueba
+Cadena de caracteres
 */
 
 public class Ej8 {
