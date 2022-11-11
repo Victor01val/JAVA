@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IIEjemplo2",
+            "request": "launch",
+            "mainClass": "IIEjemplo2",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch IIEjemplo1",
+            "request": "launch",
+            "mainClass": "IIEjemplo1",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch IIEJ3",
+            "request": "launch",
+            "mainClass": "IIEJ3",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch IIEJ2",
+            "request": "launch",
+            "mainClass": "IIEJ2",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
             "name": "Launch IEJ1",
             "request": "launch",
             "mainClass": "IEJ1",

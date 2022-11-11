@@ -5,23 +5,13 @@ factura a partir de la base imponible
 public class EJ6 {
 
   public static void main(String args[]) {
-    double sin_iva = 11.51;
-    String parentesis = "(";
-    String parentesis_dos = ")";
-
-    System.out.printf("%-10s %-13s %s\n", "Producto", "cantidad", "precio");
-    System.out.println("=================================");
-    System.out.printf("%-13s %-8d %.2f %s\n", "Manzanas", 5, 2.31, "euros");
-    System.out.printf("%-13s %-8d %.2f %s\n", "Peras", 3, 2.20, "euros");
-    System.out.printf("%-13s %-10s %d %s\n", "Platanos", 6, 6, "euros");
-    System.out.println("=================================");
-    System.out.println(
-      "Total----------------> " +
-      sin_iva +
-      " euros" +
-      parentesis +
-      "PVP sin IVA" +
-      parentesis_dos
-    );
+    double baseImponible = 180.25;
+    System.out.printf("Base imponible %10.2f\n", baseImponible);
+    System.out.printf("IVA            %10.2f\n", (baseImponible * 0.21));
+    System.out.printf("-----------------------\n");
+    System.out.printf("Total          %10.2f\n", (baseImponible * 1.21));
   }
 }
+  
+  
+
