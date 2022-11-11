@@ -2,7 +2,7 @@
 factura a partir de la base imponible 
 */
 
-public class Ej6 {
+public class EJ6 {
 
   public static void main(String args[]) {
     double sin_iva = 11.51;

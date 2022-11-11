@@ -1,4 +1,4 @@
-public class EJ2 {
+public class IEJ3 {
 	public static void main (String[] args) {
 
 System.out.println("Perro      Dog");

@@ -2,7 +2,7 @@
 Variables de tipo char y de tipo String, sola sentencia
 */
 
-public class Ej7 {
+public class EJ7 {
 
   public static void main(String args[]) {
     char letra = 'a';

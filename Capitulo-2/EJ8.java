@@ -2,7 +2,7 @@
 Cadena de caracteres
 */
 
-public class Ej8 {
+public class EJ8 {
 
   public static void main(String args[]) {
     char a = 'a', e = 'e', i = 'i', o = 'o', u = 'u';

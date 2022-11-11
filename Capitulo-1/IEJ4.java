@@ -1,4 +1,4 @@
-public class EJ2 {
+public class IEJ4 {
 	public static void main (String[] args) {
 
 

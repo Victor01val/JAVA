@@ -1,6 +1,6 @@
 //
 
-public class EJ1 {
+public class IEJ2 {
 	public static void main (String[] args) {
 
 

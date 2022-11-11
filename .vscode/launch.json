@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch IEJ2",
+            "request": "launch",
+            "mainClass": "IEJ2",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch IEJ9",
+            "request": "launch",
+            "mainClass": "IEJ9",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch colores",
+            "request": "launch",
+            "mainClass": "colores",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch IEJ5",
+            "request": "launch",
+            "mainClass": "IEJ5",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch IIEJ1",
+            "request": "launch",
+            "mainClass": "IIEJ1",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch IEJ8",
+            "request": "launch",
+            "mainClass": "IEJ8",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch EJ1",
+            "request": "launch",
+            "mainClass": "EJ1",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch EJ10",
+            "request": "launch",
+            "mainClass": "EJ10",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch EJ2",
+            "request": "launch",
+            "mainClass": "EJ2",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch EJ3",
+            "request": "launch",
+            "mainClass": "EJ3",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch EJ4",
+            "request": "launch",
+            "mainClass": "EJ4",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch EJ5",
+            "request": "launch",
+            "mainClass": "EJ5",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch EJ6",
+            "request": "launch",
+            "mainClass": "EJ6",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch EJ7",
+            "request": "launch",
+            "mainClass": "EJ7",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch EJ8",
+            "request": "launch",
+            "mainClass": "EJ8",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch EJ9",
+            "request": "launch",
+            "mainClass": "EJ9",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ej6",
+            "request": "launch",
+            "mainClass": "Ej6",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ej7",
+            "request": "launch",
+            "mainClass": "Ej7",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ej8",
+            "request": "launch",
+            "mainClass": "Ej8",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio1",
+            "request": "launch",
+            "mainClass": "Ejercicio1",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch TablaDeColores",
+            "request": "launch",
+            "mainClass": "TablaDeColores",
+            "projectName": "JAVA_cfa81798"
+        }
+    ]
+}
