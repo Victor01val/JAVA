@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IEJ7",
+            "request": "launch",
+            "mainClass": "IEJ7",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch IEJ4",
+            "request": "launch",
+            "mainClass": "IEJ4",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
             "name": "Launch IEJ2",
             "request": "launch",
             "mainClass": "IEJ2",
@@ -136,7 +150,6 @@
             "mainClass": "Ej7",
             "projectName": "JAVA_cfa81798"
         },
-        
         {
             "type": "java",
             "name": "Launch Ejercicio1",
