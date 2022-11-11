@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IEJ1",
+            "request": "launch",
+            "mainClass": "IEJ1",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
+            "name": "Launch IEJ6",
+            "request": "launch",
+            "mainClass": "IEJ6",
+            "projectName": "JAVA_cfa81798"
+        },
+        {
+            "type": "java",
             "name": "Launch IEJ7",
             "request": "launch",
             "mainClass": "IEJ7",
