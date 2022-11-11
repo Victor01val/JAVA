@@ -1,4 +1,4 @@
-.node_modules
-.class
-.launch.json
-.vscode
+node_modules
+class
+launch.json
+vscode
