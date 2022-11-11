@@ -136,13 +136,7 @@
             "mainClass": "Ej7",
             "projectName": "JAVA_cfa81798"
         },
-        {
-            "type": "java",
-            "name": "Launch Ej8",
-            "request": "launch",
-            "mainClass": "Ej8",
-            "projectName": "JAVA_cfa81798"
-        },
+        
         {
             "type": "java",
             "name": "Launch Ejercicio1",
